@@ -1,0 +1,32 @@
+/circle
+circle/circle0.jpg 1 0 0 78 76
+circle/circle1.jpg 1 0 0 89 89
+circle/circle2.jpg 1 0 0 140 105
+circle/circle3.jpg 1 0 0 133 126
+circle/circle4.jpg 1 0 0 94 122
+circle/circle5.jpg 1 0 0 95 108
+circle/circle6.jpg 1 0 0 119 165
+circle/circle7.jpg 1 0 0 87 90
+circle/circle8.jpg 1 0 0 143 121
+circle/circle9.jpg 1 0 0 112 100
+/crossrectangle
+cross/cross0.jpg
+rectangle/rectangle0.jpg
+cross/cross1.jpg
+rectangle/rectangle1.jpg
+cross/cross2.jpg
+rectangle/rectangle2.jpg
+cross/cross3.jpg
+rectangle/rectangle3.jpg
+cross/cross4.jpg
+rectangle/rectangle4.jpg
+cross/cross5.jpg
+rectangle/rectangle5.jpg
+cross/cross6.jpg
+rectangle/rectangle6.jpg
+cross/cross7.jpg
+rectangle/rectangle7.jpg
+cross/cross8.jpg
+rectangle/rectangle8.jpg
+cross/cross9.jpg
+rectangle/rectangle9.jpg
